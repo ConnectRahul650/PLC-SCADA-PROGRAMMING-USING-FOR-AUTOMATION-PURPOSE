@@ -131,3 +131,6 @@ Interface Monitoring and Control
 
 [PLC SCADA PROGRAMMING USING FOR AUTOMATION PURPOSE.pptx](https://github.com/user-attachments/files/28996342/PLC.SCADA.PROGRAMMING.USING.FOR.AUTOMATION.PURPOSE.pptx)
 
+## Simulation Video
+
+https://drive.google.com/file/d/1Q24AtWCO9mtnFW7NUsag0llxRTGaap5D/view?usp=sharing
